@@ -89,6 +89,13 @@
   "config": {
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
+    },
+    "validate-commit-msg": {
+      "scope": {
+        "required": true,
+        "validate": true,
+        "multiple": true
+      }
     }
   }
 }
