@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}  liudan-test vue-demo</h1>
+    <h1>{{ msg }}  liudan-test vue-demo1</h1>
     <h2>Essential Links</h2>
     <ul>
       <li>
