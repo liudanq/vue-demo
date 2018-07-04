@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}ggit commitizen successful</h1>
+    <h1>{{ msg }}ggit commitizen succsadsdasessful</h1>
     <h2>Essential Links</h2>
     <ul>
       <li>
